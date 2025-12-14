@@ -5,8 +5,6 @@ __pycache__/
 .Python
 env/
 venv/
-models/
-*.pkl
 .DS_Store
 Fake.csv
 True.csv
