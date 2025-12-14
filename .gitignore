@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+models/
+*.pkl
+.DS_Store
+Fake.csv
+True.csv
+train.tsv
+valid.tsv
+test.tsv
+politifact_*/
+gossipcop_*/
